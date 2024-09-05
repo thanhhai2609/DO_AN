@@ -1,4 +1,4 @@
-# 💵 Clothing Shop - Assigment PRJ301 - JAVA WEB APPLICATION DEVELOPMENT SU24
+# 💵 Bao Nam - JAVA WEB APPLICATION DEVELOPMENT 
 
 ## You will find in this repo the following stuff:
 
