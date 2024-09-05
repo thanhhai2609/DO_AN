@@ -5,7 +5,7 @@
  */
 package controller.web.login;
 
-import MaHoa.MaHoa;
+import encode.MaHoa;
 import model.UserGoogleDTO;
 import model.Constants;
 import com.google.gson.Gson;

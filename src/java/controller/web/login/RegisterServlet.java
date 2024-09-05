@@ -1,6 +1,6 @@
 package controller.web.login;
 
-import MaHoa.MaHoa; 
+import encode.MaHoa; 
 import dao.UserDAO;
 import model.UserDTO;
 import java.io.IOException;
