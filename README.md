@@ -80,7 +80,7 @@
 - Java JDK 8
 - Apache Tomcat 8
 - Visual Studio Code
-- Microsoft SQL Server Management Studio 19
+- MySQL
 
 **6.Libraries**
 
