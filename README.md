@@ -71,12 +71,11 @@
 
 **4. Other Technologies**
 
-- Design pattern: MVC2
-- Oauth2
-
+- Design pattern: MVC
+- 
 **5. Tool**
 
-- Netbeans 8.2
+- Netbeans
 - Java JDK 8
 - Apache Tomcat 8
 - Visual Studio Code
