@@ -10,27 +10,9 @@
 - Authorizing client, user, admin by filter
 - Custom tag for showing all products in cart
 - Add to cart don't reload page by using axios
-- Design pattern MVC2 Model
+- Design pattern MVC Model
 - Paging or load more products don't reload page by using ajax
 - ...
-
----
-
-## Table of Contents 📒
-
-- [Description](#description)
-
-- [Preview Screenshot](#preview-screenshot)
-
-- [Technology](#technology)
-
-- [Functional requirements](#functional-requirements)
-
-<!-- - [Reference](#reference)
-
-- [License & Copyright](#license--copyright) -->
-
----
 
 ## Description 📋
 
@@ -38,34 +20,6 @@
 - This is a website for guest and user for buying clothes
 - This website also contains a function for admin for managing
 - This web works well on desktop.
-
----
-
-## Preview Screenshot 📷
-
-**1. Guest:**<br>
-<img src="./Screenshot/1.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/2.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/3.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/4.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/5.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/6.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;<br>
-**2. User**<br>
-<img src="./Screenshot/7.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/8.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/9.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/10.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/12.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/13.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;<br>
-**3. Admin:**<br>
-<img src="./Screenshot/14.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/15.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/16.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/17.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/18.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-<img src="./Screenshot/19.jpg" style="border-radius:4%" width="30%" height="49%" />&nbsp;
-
----
 
 ## Technology 🔧
 
@@ -81,12 +35,6 @@
 
 - Servlets - a Java programming language class that is used to extend the capabilities of servers that host applications accessed by means of a request-response programming model
 - JDBC - Java Database Connectivity - a Java API to connect and execute the query with the database
-
-**3. Database**
-
-- <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/> - a relational model database server produced by Microsoft
-
----
 
 ## Functional requirements 📌
 
@@ -144,19 +92,3 @@
 - fluent-hc-4.5.5
 - httpclient-4.5.5
 - httpcore-4.9.9
-
-## Contributors 😎
-
-<a href="https://contrib.rocks/image?repo=huyhoang-doit/ClothesShop/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=huyhoang-doit/ClothesShop"/>
-</a>
-
----
-
-<!-- ## Reference
-
-## License & Copyright
-
-&copy; 2024 Phung Huu Thanh Licensed under the [Apache License 2.0](https://github.com/phuuthanh2003/PerfumeShop/blob/main/LICENSE). -->
-
-> 💁 Feel free to use my repository and star it if you find something interesting 🤘
