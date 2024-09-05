@@ -72,7 +72,7 @@
 **4. Other Technologies**
 
 - Design pattern: MVC
-- 
+  
 **5. Tool**
 
 - Netbeans
